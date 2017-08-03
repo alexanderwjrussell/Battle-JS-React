@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Game" errors="0" tests="0" failures="0" time="0" timestamp="2017-07-27T17:13:36">
+</testsuite>
+<testsuite name="Game.#Initialisation" errors="0" tests="2" failures="0" time="0.001" timestamp="2017-07-27T17:13:36">
+  <testcase classname="Game.#Initialisation" name="should initialise with 0 games played" time="0"></testcase>
+  <testcase classname="Game.#Initialisation" name="should initialise with 2 players" time="0"></testcase>
+</testsuite>
+<testsuite name="Game.#Starting a Game" errors="0" tests="0" failures="0" time="0" timestamp="2017-07-27T17:13:36">
+</testsuite>
+</testsuites>

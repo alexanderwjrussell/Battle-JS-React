@@ -1,6 +1,6 @@
 # Battle App
-## Written in Node JS and React
-## Tested with Jasmine-Node and Cucumber-JS
+#### Written in Node JS and React
+#### Tested with Jasmine-Node and Cucumber-JS
 
 ```
                ..:::::::::..          

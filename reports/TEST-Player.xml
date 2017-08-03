@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Player" errors="0" tests="0" failures="0" time="0" timestamp="2017-07-27T17:13:36">
+</testsuite>
+<testsuite name="Player.#initialise" errors="0" tests="4" failures="0" time="0" timestamp="2017-07-27T17:13:36">
+  <testcase classname="Player.#initialise" name="should initialise a player with an empty name" time="0"></testcase>
+  <testcase classname="Player.#initialise" name="should initialise a player with 20 health points" time="0"></testcase>
+  <testcase classname="Player.#initialise" name="should initialise a player with 0 games won" time="0"></testcase>
+  <testcase classname="Player.#initialise" name="should initialise a player with 0 games lost" time="0"></testcase>
+</testsuite>
+<testsuite name="Player.#Customisation" errors="0" tests="2" failures="0" time="0" timestamp="2017-07-27T17:13:36">
+  <testcase classname="Player.#Customisation" name="should allow a player to initialise their players with their own name" time="0"></testcase>
+  <testcase classname="Player.#Customisation" name="should allow players to change their name" time="0"></testcase>
+</testsuite>
+</testsuites>
